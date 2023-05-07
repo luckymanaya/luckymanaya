@@ -1,16 +1,16 @@
-### Hi there 👋
+<h1 align="center">Console.WriteLine("Hello World! I'm Lucky <3"); :wave:</h1>
 
-<!--
-**luckymanaya/luckymanaya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### IT Student :heart:
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Currently Learning :computer:
+```
+const details = [
+  {
+   firstName: "Lucky",
+   lastName: "Manaya",
+   programmingLanguages: ["C#", "JavaScript"]
+   markupLanguages: ["HTML", "CSS"]
+   framework: ["Svelte", "Sveltekit"]
+  }
+];
+```
