@@ -3,13 +3,13 @@
 ### IT Student :heart:
 
 ## Currently Learning :computer:
-```
-const details = [
+```javascript
+const importantDetails = [
   {
    firstName: "Lucky",
    lastName: "Manaya",
-   programmingLanguages: ["C#", "JavaScript"]
-   markupLanguages: ["HTML", "CSS"]
+   programmingLanguages: ["C#", "JavaScript"],
+   markupLanguages: ["HTML", "CSS"],
    framework: ["Svelte", "Sveltekit"]
   }
 ];
