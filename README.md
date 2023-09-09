@@ -6,11 +6,11 @@
 ```javascript
 const importantDetails = [
   {
-   firstName: "Lucky",
-   lastName: "Manaya",
-   programmingLanguages: ["C#", "JavaScript"],
-   markupLanguages: ["HTML", "CSS"],
-   framework: ["Svelte", "Sveltekit"]
+   "firstName": "Lucky",
+   "lastName": "Manaya",
+   "programmingLanguages": ["C#", "JavaScript"],
+   "markupLanguages": ["HTML", "CSS"],
+   "framework": ["Svelte", "Sveltekit"]
   }
 ];
 ```
